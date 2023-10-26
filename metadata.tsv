@@ -1,0 +1,171 @@
+index	lable	__next__
+0	Airliner	1
+1	SportCar
+2	Airliner	3
+3	SportCar
+4	Airliner	5
+5	HummingBird
+6	Airliner	7
+7	HummingBird
+8	Airliner	9
+9	EgyptianCat
+10	Airliner	11
+11	Impala
+12	Airliner	13
+13	Impala
+14	Airliner	15
+15	HuskyDog
+16	Airliner	17
+17	TreeFrog
+18	Airliner	19
+19	TreeFrog
+20	Airliner	21
+21	SorrelHorse
+22	Airliner	23
+23	OceanLiner
+24	Airliner	25
+25	OceanLiner
+26	Airliner	27
+27	OceanLiner
+28	Airliner	29
+29	OceanLiner
+30	Airliner	31
+31	TrailerTruck
+32	Airliner	33
+33	TrailerTruck
+34	Airliner	35
+35	TrailerTruck
+36	Airliner	37
+37	TrailerTruck
+38	SportCar	39
+39	HummingBird
+40	SportCar	41
+41	EgyptianCat
+42	SportCar	43
+43	Impala
+44	SportCar	45
+45	HuskyDog
+46	SportCar	47
+47	HuskyDog
+48	SportCar	49
+49	TreeFrog
+50	SportCar	51
+51	TreeFrog
+52	SportCar	53
+53	SorrelHorse
+54	SportCar	55
+55	SorrelHorse
+56	SportCar	57
+57	OceanLiner
+58	SportCar	59
+59	OceanLiner
+60	SportCar	61
+61	TrailerTruck
+62	SportCar	63
+63	TrailerTruck
+64	SportCar	65
+65	TrailerTruck
+66	SportCar	67
+67	TrailerTruck
+68	HummingBird	69
+69	EgyptianCat
+70	HummingBird	71
+71	EgyptianCat
+72	HummingBird	73
+73	Impala
+74	HummingBird	75
+75	HuskyDog
+76	HummingBird	77
+77	TreeFrog
+78	HummingBird	79
+79	TreeFrog
+80	HummingBird	81
+81	SorrelHorse
+82	HummingBird	83
+83	OceanLiner
+84	HummingBird	85
+85	TrailerTruck
+86	EgyptianCat	87
+87	Impala
+88	EgyptianCat	89
+89	Impala
+90	EgyptianCat	91
+91	HuskyDog
+92	EgyptianCat	93
+93	HuskyDog
+94	EgyptianCat	95
+95	HuskyDog
+96	EgyptianCat	97
+97	HuskyDog
+98	EgyptianCat	99
+99	TreeFrog
+100	EgyptianCat	101
+101	TreeFrog
+102	EgyptianCat	103
+103	SorrelHorse
+104	EgyptianCat	105
+105	OceanLiner
+106	EgyptianCat	107
+107	TrailerTruck
+108	Impala	109
+109	HuskyDog
+110	Impala	111
+111	HuskyDog
+112	Impala	113
+113	TreeFrog
+114	Impala	115
+115	SorrelHorse
+116	Impala	117
+117	SorrelHorse
+118	Impala	119
+119	SorrelHorse
+120	Impala	121
+121	SorrelHorse
+122	Impala	123
+123	OceanLiner
+124	Impala	125
+125	TrailerTruck
+126	Impala	127
+127	TrailerTruck
+128	HuskyDog	129
+129	TreeFrog
+130	HuskyDog	131
+131	TreeFrog
+132	HuskyDog	133
+133	SorrelHorse
+134	HuskyDog	135
+135	SorrelHorse
+136	HuskyDog	137
+137	OceanLiner
+138	HuskyDog	139
+139	TrailerTruck
+140	TreeFrog	141
+141	SorrelHorse
+142	TreeFrog	143
+143	OceanLiner
+144	TreeFrog	145
+145	TrailerTruck
+146	SorrelHorse	147
+147	OceanLiner
+148	SorrelHorse	149
+149	TrailerTruck
+150	SorrelHorse	151
+151	TrailerTruck
+152	OceanLiner	153
+153	TrailerTruck
+154	OceanLiner	155
+155	TrailerTruck
+156	OceanLiner	157
+157	TrailerTruck
+158	OceanLiner	159
+159	TrailerTruck
+0	Airliner
+1	SportCar
+2	HummingBird
+3	EgyptianCat
+4	Impala
+5	HuskyDog
+6	TreeFrog
+7	SorrelHorse
+8	OceanLiner
+9	TrailerTruck
