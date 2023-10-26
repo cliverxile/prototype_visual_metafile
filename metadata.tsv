@@ -1,0 +1,501 @@
+index	lable
+100	airliner
+101	airliner
+102	airliner
+103	airliner
+104	airliner
+105	airliner
+106	airliner
+107	airliner
+108	airliner
+109	airliner
+110	airliner
+111	airliner
+112	airliner
+113	airliner
+114	airliner
+115	airliner
+116	airliner
+117	airliner
+118	airliner
+119	airliner
+120	airliner
+121	airliner
+122	airliner
+123	airliner
+124	airliner
+125	airliner
+126	airliner
+127	airliner
+128	airliner
+129	airliner
+130	airliner
+131	airliner
+132	airliner
+133	airliner
+134	airliner
+135	airliner
+136	airliner
+137	airliner
+138	airliner
+139	airliner
+140	airliner
+141	airliner
+142	airliner
+143	airliner
+144	airliner
+145	airliner
+146	airliner
+147	airliner
+148	airliner
+149	airliner
+150	sports car
+151	sports car
+152	sports car
+153	sports car
+154	sports car
+155	sports car
+156	sports car
+157	sports car
+158	sports car
+159	sports car
+160	sports car
+161	sports car
+162	sports car
+163	sports car
+164	sports car
+165	sports car
+166	sports car
+167	sports car
+168	sports car
+169	sports car
+170	sports car
+171	sports car
+172	sports car
+173	sports car
+174	sports car
+175	sports car
+176	sports car
+177	sports car
+178	sports car
+179	sports car
+180	sports car
+181	sports car
+182	sports car
+183	sports car
+184	sports car
+185	sports car
+186	sports car
+187	sports car
+188	sports car
+189	sports car
+190	sports car
+191	sports car
+192	sports car
+193	sports car
+194	sports car
+195	sports car
+196	sports car
+197	sports car
+198	sports car
+199	sports car
+200	hummingbird
+201	hummingbird
+202	hummingbird
+203	hummingbird
+204	hummingbird
+205	hummingbird
+206	hummingbird
+207	hummingbird
+208	hummingbird
+209	hummingbird
+210	hummingbird
+211	hummingbird
+212	hummingbird
+213	hummingbird
+214	hummingbird
+215	hummingbird
+216	hummingbird
+217	hummingbird
+218	hummingbird
+219	hummingbird
+220	hummingbird
+221	hummingbird
+222	hummingbird
+223	hummingbird
+224	hummingbird
+225	hummingbird
+226	hummingbird
+227	hummingbird
+228	hummingbird
+229	hummingbird
+230	hummingbird
+231	hummingbird
+232	hummingbird
+233	hummingbird
+234	hummingbird
+235	hummingbird
+236	hummingbird
+237	hummingbird
+238	hummingbird
+239	hummingbird
+240	hummingbird
+241	hummingbird
+242	hummingbird
+243	hummingbird
+244	hummingbird
+245	hummingbird
+246	hummingbird
+247	hummingbird
+248	hummingbird
+249	hummingbird
+250	Egyptian Mau
+251	Egyptian Mau
+252	Egyptian Mau
+253	Egyptian Mau
+254	Egyptian Mau
+255	Egyptian Mau
+256	Egyptian Mau
+257	Egyptian Mau
+258	Egyptian Mau
+259	Egyptian Mau
+260	Egyptian Mau
+261	Egyptian Mau
+262	Egyptian Mau
+263	Egyptian Mau
+264	Egyptian Mau
+265	Egyptian Mau
+266	Egyptian Mau
+267	Egyptian Mau
+268	Egyptian Mau
+269	Egyptian Mau
+270	Egyptian Mau
+271	Egyptian Mau
+272	Egyptian Mau
+273	Egyptian Mau
+274	Egyptian Mau
+275	Egyptian Mau
+276	Egyptian Mau
+277	Egyptian Mau
+278	Egyptian Mau
+279	Egyptian Mau
+280	Egyptian Mau
+281	Egyptian Mau
+282	Egyptian Mau
+283	Egyptian Mau
+284	Egyptian Mau
+285	Egyptian Mau
+286	Egyptian Mau
+287	Egyptian Mau
+288	Egyptian Mau
+289	Egyptian Mau
+290	Egyptian Mau
+291	Egyptian Mau
+292	Egyptian Mau
+293	Egyptian Mau
+294	Egyptian Mau
+295	Egyptian Mau
+296	Egyptian Mau
+297	Egyptian Mau
+298	Egyptian Mau
+299	Egyptian Mau
+300	impala (antelope)
+301	impala (antelope)
+302	impala (antelope)
+303	impala (antelope)
+304	impala (antelope)
+305	impala (antelope)
+306	impala (antelope)
+307	impala (antelope)
+308	impala (antelope)
+309	impala (antelope)
+310	impala (antelope)
+311	impala (antelope)
+312	impala (antelope)
+313	impala (antelope)
+314	impala (antelope)
+315	impala (antelope)
+316	impala (antelope)
+317	impala (antelope)
+318	impala (antelope)
+319	impala (antelope)
+320	impala (antelope)
+321	impala (antelope)
+322	impala (antelope)
+323	impala (antelope)
+324	impala (antelope)
+325	impala (antelope)
+326	impala (antelope)
+327	impala (antelope)
+328	impala (antelope)
+329	impala (antelope)
+330	impala (antelope)
+331	impala (antelope)
+332	impala (antelope)
+333	impala (antelope)
+334	impala (antelope)
+335	impala (antelope)
+336	impala (antelope)
+337	impala (antelope)
+338	impala (antelope)
+339	impala (antelope)
+340	impala (antelope)
+341	impala (antelope)
+342	impala (antelope)
+343	impala (antelope)
+344	impala (antelope)
+345	impala (antelope)
+346	impala (antelope)
+347	impala (antelope)
+348	impala (antelope)
+349	impala (antelope)
+350	husky
+351	husky
+352	husky
+353	husky
+354	husky
+355	husky
+356	husky
+357	husky
+358	husky
+359	husky
+360	husky
+361	husky
+362	husky
+363	husky
+364	husky
+365	husky
+366	husky
+367	husky
+368	husky
+369	husky
+370	husky
+371	husky
+372	husky
+373	husky
+374	husky
+375	husky
+376	husky
+377	husky
+378	husky
+379	husky
+380	husky
+381	husky
+382	husky
+383	husky
+384	husky
+385	husky
+386	husky
+387	husky
+388	husky
+389	husky
+390	husky
+391	husky
+392	husky
+393	husky
+394	husky
+395	husky
+396	husky
+397	husky
+398	husky
+399	husky
+400	tree frog
+401	tree frog
+402	tree frog
+403	tree frog
+404	tree frog
+405	tree frog
+406	tree frog
+407	tree frog
+408	tree frog
+409	tree frog
+410	tree frog
+411	tree frog
+412	tree frog
+413	tree frog
+414	tree frog
+415	tree frog
+416	tree frog
+417	tree frog
+418	tree frog
+419	tree frog
+420	tree frog
+421	tree frog
+422	tree frog
+423	tree frog
+424	tree frog
+425	tree frog
+426	tree frog
+427	tree frog
+428	tree frog
+429	tree frog
+430	tree frog
+431	tree frog
+432	tree frog
+433	tree frog
+434	tree frog
+435	tree frog
+436	tree frog
+437	tree frog
+438	tree frog
+439	tree frog
+440	tree frog
+441	tree frog
+442	tree frog
+443	tree frog
+444	tree frog
+445	tree frog
+446	tree frog
+447	tree frog
+448	tree frog
+449	tree frog
+450	common sorrel horse
+451	common sorrel horse
+452	common sorrel horse
+453	common sorrel horse
+454	common sorrel horse
+455	common sorrel horse
+456	common sorrel horse
+457	common sorrel horse
+458	common sorrel horse
+459	common sorrel horse
+460	common sorrel horse
+461	common sorrel horse
+462	common sorrel horse
+463	common sorrel horse
+464	common sorrel horse
+465	common sorrel horse
+466	common sorrel horse
+467	common sorrel horse
+468	common sorrel horse
+469	common sorrel horse
+470	common sorrel horse
+471	common sorrel horse
+472	common sorrel horse
+473	common sorrel horse
+474	common sorrel horse
+475	common sorrel horse
+476	common sorrel horse
+477	common sorrel horse
+478	common sorrel horse
+479	common sorrel horse
+480	common sorrel horse
+481	common sorrel horse
+482	common sorrel horse
+483	common sorrel horse
+484	common sorrel horse
+485	common sorrel horse
+486	common sorrel horse
+487	common sorrel horse
+488	common sorrel horse
+489	common sorrel horse
+490	common sorrel horse
+491	common sorrel horse
+492	common sorrel horse
+493	common sorrel horse
+494	common sorrel horse
+495	common sorrel horse
+496	common sorrel horse
+497	common sorrel horse
+498	common sorrel horse
+499	common sorrel horse
+500	ocean liner
+501	ocean liner
+502	ocean liner
+503	ocean liner
+504	ocean liner
+505	ocean liner
+506	ocean liner
+507	ocean liner
+508	ocean liner
+509	ocean liner
+510	ocean liner
+511	ocean liner
+512	ocean liner
+513	ocean liner
+514	ocean liner
+515	ocean liner
+516	ocean liner
+517	ocean liner
+518	ocean liner
+519	ocean liner
+520	ocean liner
+521	ocean liner
+522	ocean liner
+523	ocean liner
+524	ocean liner
+525	ocean liner
+526	ocean liner
+527	ocean liner
+528	ocean liner
+529	ocean liner
+530	ocean liner
+531	ocean liner
+532	ocean liner
+533	ocean liner
+534	ocean liner
+535	ocean liner
+536	ocean liner
+537	ocean liner
+538	ocean liner
+539	ocean liner
+540	ocean liner
+541	ocean liner
+542	ocean liner
+543	ocean liner
+544	ocean liner
+545	ocean liner
+546	ocean liner
+547	ocean liner
+548	ocean liner
+549	ocean liner
+550	semi-trailer truck
+551	semi-trailer truck
+552	semi-trailer truck
+553	semi-trailer truck
+554	semi-trailer truck
+555	semi-trailer truck
+556	semi-trailer truck
+557	semi-trailer truck
+558	semi-trailer truck
+559	semi-trailer truck
+560	semi-trailer truck
+561	semi-trailer truck
+562	semi-trailer truck
+563	semi-trailer truck
+564	semi-trailer truck
+565	semi-trailer truck
+566	semi-trailer truck
+567	semi-trailer truck
+568	semi-trailer truck
+569	semi-trailer truck
+570	semi-trailer truck
+571	semi-trailer truck
+572	semi-trailer truck
+573	semi-trailer truck
+574	semi-trailer truck
+575	semi-trailer truck
+576	semi-trailer truck
+577	semi-trailer truck
+578	semi-trailer truck
+579	semi-trailer truck
+580	semi-trailer truck
+581	semi-trailer truck
+582	semi-trailer truck
+583	semi-trailer truck
+584	semi-trailer truck
+585	semi-trailer truck
+586	semi-trailer truck
+587	semi-trailer truck
+588	semi-trailer truck
+589	semi-trailer truck
+590	semi-trailer truck
+591	semi-trailer truck
+592	semi-trailer truck
+593	semi-trailer truck
+594	semi-trailer truck
+595	semi-trailer truck
+596	semi-trailer truck
+597	semi-trailer truck
+598	semi-trailer truck
+599	semi-trailer truck
